@@ -1,0 +1,14 @@
+[submodule "DrugIp/lib/forge-std"]
+	path = DrugIp/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "DrugIp/lib/openzeppelin-contracts"]
+	path = DrugIp/lib/openzeppelin-contracts
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts
+[submodule "DrugIp/lib/chainlink"]
+	path = DrugIp/lib/chainlink
+	url = https://github.com/smartcontractkit/chainlink
+[submodule "DrugIp/lib/ccip"]
+	path = DrugIp/lib/ccip
+	url = https://github.com/smartcontractkit/ccip
+[submodule "lib/ccip"]
+	branch = ccip-develop

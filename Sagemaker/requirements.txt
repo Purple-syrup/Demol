@@ -1,0 +1,9 @@
+joblib
+numpy
+pillow
+rdkit
+flask
+torch 
+torch-geometric
+gunicorn
+flask-cors
